@@ -90,3 +90,8 @@
   <a href="[https://www.youtube.com/watch?v=U-SxKKCzgYE&t=1s](https://www.youtube.com/watch?v=U-SxKKCzgYE&t=1s)"><img src="https://ytcards.demolab.com/?id=U-SxKKCzgYE&t=1s&title=Killing+Mexicraft+|+👑+@airflow+are+the+real+kings&lang=en&timestamp=1680991440&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Killing Mexicraft | 👑 @airflow Are The Real KIngs" title="Killing Mexicraft | 👑 @airflow Are The Real KIngs"></a>
   </summary>
  </details>
+
+<p align="center">
+  <a href="https://github.com/tv-drmr">
+    <img src="https://icey.fr/discord/footer.png" alt=".drmr" /></a>
+</p>
