@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tv-drmr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=%40.drmr%234677" alt="Jonah Lawrence" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%40.drmr%234677" alt=".drmr" /></a>
 </p>
 
 <p align="center">
