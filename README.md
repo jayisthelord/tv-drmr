@@ -11,17 +11,11 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@drmr./"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  
   <a href="https://discord.gg/FMqy6hbkkN" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
 </p>
   
-<details open>
-  <summary><h2>Latest YouTube Videos 📺</h2></summary>
-    <a href="[https://www.youtube.com/watch?v=6u9BrDaSHJc](https://www.youtube.com/watch?v=SmPVZyyEfYc)"><img src="https://ytcards.demolab.com/?id=SmPVZyyEfYc&title=2023+Desktop+Tour&lang=en&timestamp=1681004040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="2023 - Desktop Tour 🐇" title="2023 - Desktop Tour 🐇"></a>
-  <a href="[https://www.youtube.com/watch?v=U-SxKKCzgYE&t=1s](https://www.youtube.com/watch?v=U-SxKKCzgYE&t=1s)"><img src="https://ytcards.demolab.com/?id=U-SxKKCzgYE&t=1s&title=Killing+Mexicraft+|+👑+@airflow+are+the+real+kings&lang=en&timestamp=1680991440&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Killing Mexicraft | 👑 @airflow Are The Real KIngs" title="Killing Mexicraft | 👑 @airflow Are The Real KIngs"></a>
-  </summary>
- </details>
- 
- <details> 
+   <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -97,3 +91,10 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
+<details open>
+  <summary><h2>Latest YouTube Videos 📺</h2></summary>
+    <a href="[https://www.youtube.com/watch?v=6u9BrDaSHJc](https://www.youtube.com/watch?v=SmPVZyyEfYc)"><img src="https://ytcards.demolab.com/?id=SmPVZyyEfYc&title=2023+Desktop+Tour&lang=en&timestamp=1681004040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="2023 - Desktop Tour 🐇" title="2023 - Desktop Tour 🐇"></a>
+  <a href="[https://www.youtube.com/watch?v=U-SxKKCzgYE&t=1s](https://www.youtube.com/watch?v=U-SxKKCzgYE&t=1s)"><img src="https://ytcards.demolab.com/?id=U-SxKKCzgYE&t=1s&title=Killing+Mexicraft+|+👑+@airflow+are+the+real+kings&lang=en&timestamp=1680991440&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="Killing Mexicraft | 👑 @airflow Are The Real KIngs" title="Killing Mexicraft | 👑 @airflow Are The Real KIngs"></a>
+  </summary>
+ </details>
