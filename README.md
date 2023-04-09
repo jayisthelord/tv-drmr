@@ -12,7 +12,8 @@
 <p align="center">
   <a href="https://www.youtube.com/@drmr./"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   <a href="https://discord.gg/FMqy6hbkkN" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-
+</p>
+  
 <details open>
   <summary><h2>Latest YouTube Videos 📺</h2></summary>
     <a href="[https://www.youtube.com/watch?v=6u9BrDaSHJc](https://www.youtube.com/watch?v=SmPVZyyEfYc)"><img src="https://ytcards.demolab.com/?id=SmPVZyyEfYc&title=2023+Desktop+Tour&lang=en&timestamp=1681004040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=312" alt="2023 - Desktop Tour 🐇" title="2023 - Desktop Tour 🐇"></a>
